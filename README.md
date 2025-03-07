@@ -1,4 +1,4 @@
-<img src="https://media.canva.com/v2/files/uri:ifs%3A%2F%2FM%2F42c74cfa-df76-4611-ab99-3e22960c04a1?csig=AAAAAAAAAAAAAAAAAAAAAB5fTd9AD9QyUtsqs2nxrBPBs_qSU3Dvha2YSKjJiAKa&exp=1741381225&signer=media-rpc&token=AAIAAU0AJDQyYzc0Y2ZhLWRmNzYtNDYxMS1hYjk5LTNlMjI5NjBjMDRhMQAAAAABlXJoyijjzxEH08U1h99nSxSgNABz_KPFJrxDIt0yD6lxKBLXQg" alt="Imagem de amostra" width="1000" height="400">                                            
+<img src="https://i.imgur.com/4ZSAiQl.png" alt="Imagem de amostra" width="1000" height="400">                                            
 
 # Agendify
 
