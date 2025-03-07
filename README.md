@@ -45,7 +45,6 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
 
 #### Módulo de Segurança
 - Autenticação de usuários (login e senha, autenticação de dois fatores).
-- Criptografia de dados sensíveis (ex.: CPF, endereço).
 - Controle de acesso baseado em perfis (Usuario, profissional, administrador)
 
 > ### Não funcionais
@@ -54,6 +53,7 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
 - Cumprimento das normas de proteção de dados .
 - Proteção contra ataques cibernéticos .
 - Armazenamento seguro de senhas
+- Criptografia de dados sensíveis (ex.: CPF, endereço).
 
 #### Customização
 - Facilidade para o comprador personalizar o sistema sem necessidade de conhecimento técnico.
