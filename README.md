@@ -13,7 +13,7 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
 
 > ### Funcionais
 #### Módulo de Agendamento
-- Permitir que usuarios agendem atendimentos online.
+- Permitir que o profissional agendem atendimentos online.
 - Oferecer opções de filtragem por especialidade, profissional, data e horário.
 - Exibir disponibilidade de horários em tempo real.
 - Permitir o agendamento recorrente (atendimentos periódicos).
