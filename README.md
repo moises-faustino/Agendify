@@ -53,6 +53,6 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr√
 -   Enviar lembretes autom√°ticos de atendimentos.
 -   Notificar profissionais sobre novos agendamentos.
 -   Notificar profissionais sobre cancelamentos de atendimentos.
-
-
+## Diagrama de Caso e uso 
+<img src="https://i.imgur.com/i3fHDVJ.jpeg" alt="Imagem de amostra" width="900" height="1200">       
   
