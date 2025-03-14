@@ -12,58 +12,53 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
 ## Requisitos
 
 > ### Funcionais
-#### Módulo de Agendamento
-- Permitir que pessoa usuaria agendem atendimentos online.
-- Oferecer opções de filtragem por especialidade, profissional, data e horário.
-- Exibir disponibilidade de horários em tempo real.
-- Permitir o agendamento recorrente (atendimentos periódicos).
-- Enviar confirmação de agendamento por e-mail ou SMS.
+###  Cadastrar e Gerenciar Profissionais  
+ - Cadastrar Profissionais
+ - Editar Cadastro de Profissionais
+ - Excluir Cadastro de Profissionais
 
-#### Módulo de Gestão de Agendamento
-- Permitir que profissionais visualizem sua agenda de Atendimento.
-- Oferecer a possibilidade de cancelar, reagendar ou editar atendimentos.
-- Notificar sobre alterações no agendamento.
-- Registrar histórico de atendimento por pessoa.
+###  Cadastrar Usuários
+ - Cadastrar Usuários Editar 
+ - Cadastro de Usuários 
+ - Excluir Cadastro de Usuários
 
+### **Agendar Atendimentos**
+-   Agendar atendimentos.
+-   Filtrar atendimentos por especialidade.
+-   Filtrar atendimentos por profissional.
+-   Filtrar atendimentos por data e horário.
+-   Visualizar disponibilidade em tempo real.
+-   Agendar atendimentos recorrentes.
+-   Receber confirmação de agendamento por e-mail ou SMS.
 
-#### Módulo de Perfis de Usuários
+###  **Gerenciar Atendimentos**
 
-- Cadastro de pessoa usuaria (nome, e-mail, telefone, CPF, endereço, etc.).
-- Cadastro de profissionais (nome, especialidade, CRM (Se necessario), horários de trabalho, etc.).
-- Perfil de administrador para gerenciar usuários e configurações do sistema.
+-   Visualizar agenda de atendimentos.
+-   Cancelar atendimento.
+-   Reagendar atendimento.
+-   Editar atendimento.
+-   Notificar alterações de atendimento.
+-   Consultar histórico de atendimentos.
 
-#### Módulo de Personalização
+### **Personalizar Sistema**
 
-- Permitir que o comprador personalize cores, logos e textos da plataforma.
-- Oferecer opções de personalização de fluxos de trabalho.
-- Permitir a inclusão de campos personalizados no cadastro de usuarios e profissionais.
+-   Personalizar cores do sistema.
+-   Personalizar logos.
+-   Personalizar textos do sistema.
+-   Personalizar fluxos de trabalho.
+-   Adicionar campos personalizados nos cadastros.
 
-#### Módulo de Notificações
-- Enviar lembretes automáticos de consultas por e-mail ou SMS.
-- Notificar profissionais sobre novos agendamentos ou cancelamentos.
-- Oferecer configurações personalizáveis de notificações (horários, frequência, etc.)
+### **Enviar Notificações e Lembretes**
 
-#### Módulo de Segurança
-- Autenticação de usuários (login e senha, autenticação de dois fatores).
-- Controle de acesso baseado em perfis (Usuario, profissional, administrador)
+-   Enviar lembretes automáticos de atendimentos.
+-   Notificar profissionais sobre novos agendamentos.
+-   Notificar profissionais sobre cancelamentos de atendimentos.
 
-> ### Não funcionais
+### Administrar Pagamentos
 
-#### Segurança
-- Cumprimento das normas de proteção de dados .
-- Proteção contra ataques cibernéticos .
-- Armazenamento seguro de senhas
-- Criptografia de dados sensíveis (ex.: CPF, endereço).
-
-#### Customização
-- Facilidade para o comprador personalizar o sistema sem necessidade de conhecimento técnico.
-- Documentação clara e detalhada para personalizações avançadas
-
-#### Compatibilidade
-- Funcionamento em navegadores modernos (Chrome, Firefox).
-
-#### Usabilidade
-- Interface intuitiva e amigável para usurios e profissionais.
-- Design responsivo para acesso via desktop, tablet e mobile.
-
+-   Realizar pagamento de atendimentos.
+-   Configurar opções de pagamento (cartão de crédito, boleto, etc.).
+-   Emitir recibos de pagamento.
+-   Gerenciar histórico de pagamentos.
+-   Integrar com gateways de pagamento para transações seguras.
   
