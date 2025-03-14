@@ -6,7 +6,7 @@
 Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletrônico de atendimentos, com o propósito de revolucionar a gestão de compromissos e otimizar a experiência do usuário. A solução visa não apenas simplificar o processo de marcação de atendimentos, mas também oferecer uma experiência personalizada e altamente customizável, adaptando-se às necessidades específicas de cada cliente
 
 ## Escopo do Projeto
- Sistema de Agendamento Eletrônico 
+ Sistema de Agendamento Eletrônico - Web
 
 
 ## Requisitos
