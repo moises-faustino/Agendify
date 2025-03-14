@@ -54,11 +54,5 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
 -   Notificar profissionais sobre novos agendamentos.
 -   Notificar profissionais sobre cancelamentos de atendimentos.
 
-### Administrar Pagamentos
-
--   Realizar pagamento de atendimentos.
--   Configurar opções de pagamento (cartão de crédito, boleto, etc.).
--   Emitir recibos de pagamento.
--   Gerenciar histórico de pagamentos.
 
   
