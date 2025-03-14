@@ -18,8 +18,8 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
  - Excluir Cadastro de Profissionais
 
 ###  Cadastrar Usuários
- - Cadastrar Usuários Editar 
- - Cadastro de Usuários 
+ - Cadastrar Usuários 
+ - Editar Cadastro de Usuários 
  - Excluir Cadastro de Usuários
 
 ### **Agendar Atendimentos**
@@ -60,5 +60,5 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
 -   Configurar opções de pagamento (cartão de crédito, boleto, etc.).
 -   Emitir recibos de pagamento.
 -   Gerenciar histórico de pagamentos.
--   Integrar com gateways de pagamento para transações seguras.
+
   
