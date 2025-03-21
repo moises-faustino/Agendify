@@ -54,5 +54,5 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr√
 -   Notificar profissionais sobre novos agendamentos.
 -   Notificar profissionais sobre cancelamentos de atendimentos.
 ## Diagrama de Caso e uso 
-<img src="https://i.imgur.com/I7ReB0o.jpeg" alt="Imagem de amostra" width="1100" height="1100">       
+<img src="https://i.imgur.com/I7ReB0o.jpeg" alt="Imagem de amostra" width="1000" height="800">       
   
