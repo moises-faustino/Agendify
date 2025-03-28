@@ -53,6 +53,16 @@ Desenvolver uma plataforma digital inovadora e intuitiva para agendamento eletr�
 -   Enviar lembretes automáticos de atendimentos.
 -   Notificar profissionais sobre novos agendamentos.
 -   Notificar profissionais sobre cancelamentos de atendimentos.
+
+  > ### Não Funcionais
+ ### **Segurança**
+- Proteção de dados: Cumprir a LGPD/GPDR para armazenamento e processamento de dados pessoais
+### **Manutenibilidade**
+- Documentação: Código e APIs bem documentados para facilitar atualizações.
+### **Compatibilidade**
+- Multiplataforma: Funcionar em navegadores modernos (Chrome, Firefox, Safari, Edge) e dispositivos móveis
+
+
 ## Diagrama de Caso e uso 
 <img src="https://i.imgur.com/I7ReB0o.jpeg" alt="Imagem de amostra" width="1000" height="800">       
   
